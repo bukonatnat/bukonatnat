@@ -1,7 +1,7 @@
 # Hi, I'm Bukonatnat! 
-### ✨ Web Designer | 💻 Developer | 🚀 WM Hopper
+### Web Designer | Developer | WM Hopper
 
-I bridge the gap between **aesthetic design** 🎨 and **functional code** ⚙️. With a strong foundation in building high-performance websites, I am currently expanding my horizons into the world of **mobile and desktop application development**.
+I bridge the gap between **aesthetic design** and **functional code**. With a strong foundation in building high-performance websites, I am currently expanding my horizons into the world of **mobile and desktop application development**.
 
 ---
 
@@ -15,7 +15,7 @@ I bridge the gap between **aesthetic design** 🎨 and **functional code** ⚙�
 
 ---
 
-### 🚀 What I'm Doing
+### What I'm Doing
 * **Web Design & Dev:** Building responsive and modern websites that pop.
 * **Exploring App Dev:** Currently diving deep into mobile application architecture.
 * **UI/UX:** obsessing over making things easy and beautiful for users.
@@ -23,7 +23,7 @@ I bridge the gap between **aesthetic design** 🎨 and **functional code** ⚙�
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 * 📧 **Email:** imhannsop@gmail.com
 * 💼 **LinkedIn:** https://www.linkedin.com/in/bukonatnatcoconut/
 * 🌐 **Visit my website:** https://bukonato.is-a.dev/
@@ -31,5 +31,5 @@ I bridge the gap between **aesthetic design** 🎨 and **functional code** ⚙�
 
 ---
 <p align="center">
-  <i>"Where clean aesthetics meet robust systems."</i> ☕🎨
+  <i>"Where clean aesthetics meet robust systems."</i> ☕
 </p>
