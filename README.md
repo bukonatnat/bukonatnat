@@ -1,5 +1,5 @@
 # Hi, I'm Bukonatnat! 
-### Software | Game Developer | WM Hopper
+### Software and Game Developer 
 ---
 
 ### 🛠️ Tech Stack
@@ -9,14 +9,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,c,git,qt,arch,netlify" />
   </a>
 </p>
-
----
-
-### What I'm Doing
-* **Web Design & Dev:** Building responsive and modern websites that pop.
-* **Exploring App Dev:** Currently diving deep into mobile application architecture.
-* **UI/UX:** obsessing over making things easy and beautiful for users.
-* **Dev Tools:** Tinkering with my arch-based linux setup and **Qt** for desktop apps.
 
 ---
 
