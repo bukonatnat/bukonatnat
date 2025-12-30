@@ -1,5 +1,4 @@
-# Hi, I'm Bukonatnat! 
-### Software | Game Developer 
+# Hi, I'm Bukonatnat!
 ---
 
 ### 🛠️ Tech Stack
