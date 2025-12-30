@@ -1,6 +1,4 @@
 # Hi, I'm Bukonatnat!
----
-
 ### 🛠️ Tech Stack
 <p> My toolkit for coding and for slaying projects: </p>
 <p align="left">
